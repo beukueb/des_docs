@@ -1,0 +1,6 @@
+site_name: DES manual
+nav:
+    - Home: index.md
+    - Knowledgebase exploration: exploration.md
+    - Glossary: glossary.md
+    - Dictionaries: dictionaries.md

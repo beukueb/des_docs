@@ -1,7 +1,7 @@
-# Knowledgebase exploration in DES-RV
+# Knowledgebase exploration in DES-ROD
 ## Introduction
 
-Examples were extracted from the DES-rv KB, minor differences might exist
+Examples were extracted from the DES-rod KB, minor differences might exist
 for the other KBs build on DES.
 
 ![Dragon Exploration System](images/des_lit.png "Figure 2. Dragon Exploration System Literature View")
@@ -29,11 +29,11 @@ hypotheses.
 
 ## Knowledgebase Exploration
 
-DES_rv is a web based application. To start exploring, inside your
+DES_rod is a web based application. To start exploring, inside your
 browser open the [home
-page](https://www.cbrc.kaust.edu.sa/des-rv). This will take you to the
+page](https://www.cbrc.kaust.edu.sa/des-rod). This will take you to the
 knowledgebase opening screen as shown in Figure 4 for
-*DES-rv*. To navigate through the knowledgebase, you can use the
+*DES-rod*. To navigate through the knowledgebase, you can use the
 main menu as shown in the figure 5.
 
 ![Knowledgebase opening screen](images/des_start.png "Figure 4. Knowledgebase opening screen")

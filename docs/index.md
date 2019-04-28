@@ -1,12 +1,13 @@
-# Software manual for Knowledge Exploration System DES-RV
+# Software manual for Knowledge Exploration System DES-ROD
 
 Welcome to DES, the knowledge exploration system used as the basis for several knowledgebases:
 
 - [DES tomato](http://www.cbrc.kaust.edu.sa/des_tomato) (2017)
 - [DES mutation](http://www.cbrc.kaust.edu.sa/des-mutation) (2018)
 - [DES redox](https://www.cbrc.kaust.edu.sa/des-rv) (2019)
+- [DES rod](https://www.cbrc.kaust.edu.sa/des-rod) (2019)
 
-This version of the documentation is tailored to DES redox, and
+This version of the documentation is tailored to DES rod, and
 not all features described are present in earlier versions.
 To see the documentation for earlier version, change the version
 in the bottom right corner.
